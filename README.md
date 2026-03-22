@@ -83,8 +83,8 @@ Python | SQL | Machine Learning | Power BI | Excel
 
 ## Connect With Me
 
-LinkedIn: (Add your LinkedIn link)
-GitHub: https://github.com/yourusername
+LinkedIn: https://linkedin.com/in/vridhi-jain-890a9b293
+GitHub: https://github.com/Jainvridhi
 
 ---
 
