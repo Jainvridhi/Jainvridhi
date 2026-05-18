@@ -1,92 +1,45 @@
+<div align="center">
+
 # Hi, I'm Vridhi Jain 👋
 
-🎓 B.Tech Information Technology Student
-📊 Aspiring Data Analyst | Machine Learning Enthusiast
-💡 Passionate about turning data into actionable business insights
+### B.Tech IT Student | Data Analyst | ML Engineer | Research Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vridhi-jain-890a9b293)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Jainvridhi)
+
+</div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I enjoy building **end-to-end data analytics systems** that combine data cleaning, SQL analytics, machine learning models, and business dashboards.
+I'm a final-year B.Tech IT student at **Bharati Vidyapeeth's College of Engineering, New Delhi** with a deep focus on turning data into decisions.
 
-My focus is on solving **real-world business problems using data**.
-
-Currently exploring:
-
-• Advanced SQL Analytics
-• Machine Learning for Business Intelligence
-• Power BI Dashboard Development
-• AI-driven Decision Systems
+- 📄 **Published Research Author** — Hyperspectral AI for crop deficiency detection (93.4% accuracy)
+- 📊 **Data Analytics** — End-to-end pipelines: cleaning → SQL → ML → Power BI dashboards
+- 🤖 **AI/ML Engineer** — Built production-grade models using CNN, LSTM, RoBERTa, XGBoost
+- 🛠️ **App Builder** — Streamlit-based AI apps deployed for real use cases
 
 ---
 
-## Tech Stack
+## 🏆 Highlight Projects
 
-**Programming**
-
-Python
-SQL
-
-**Data Analysis**
-
-Pandas
-NumPy
-
-**Machine Learning**
-
-Scikit-learn
-XGBoost
-
-**Data Visualization**
-
-Power BI
-Matplotlib
-Seaborn
-
-**Tools**
-
-Excel
-MySQL
-Jupyter Notebook
-Git & GitHub
+| Project | What It Does | Key Result |
+|---|---|---|
+| [🌱 Crop Nutrient AI](https://github.com/Jainvridhi/Early-and-Accurate-Nutrient-Deficiency-Detection-in-Crops-Using-Hyperspectral-Image-Analysis) | Detects N/P/K deficiency via hyperspectral imaging | **93.4% accuracy**, 10–15 days early detection |
+| [🛒 RetailPulse 360](https://github.com/Jainvridhi/RetailPulse-360) | AI retail intelligence — demand, risk, leakage | **500K+ transactions**, XGBoost + Power BI |
+| [⭐ Amazon Sentiment](https://github.com/Jainvridhi/amazon_sentiment_analysis) | Multi-model NLP review classifier | CNN + LSTM + RoBERTa + VADER ensemble |
+| [👥 HR Analytics](https://github.com/Jainvridhi/HR-Analytics-PowerBI) | Power BI HR dashboard for attrition insights | Interactive Power BI with DAX |
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-### RetailPulse 360 – AI Retail Intelligence System
-
-An end-to-end retail analytics platform that analyzes e-commerce transactions, predicts product demand risks, and generates data-driven business insights.
-
-Key Features:
-
-• Advanced SQL intelligence for revenue and demand analysis
-• Machine learning models predicting product demand and failure risk
-• AI-generated business recommendations
-• Interactive Power BI dashboard for decision making
-
-Technologies Used:
-
-Python | SQL | Machine Learning | Power BI | Excel
+**Languages:** Python · SQL  
+**ML/DL:** Scikit-learn · XGBoost · TensorFlow · PyTorch · LSTM · CNN · RoBERTa  
+**Analytics:** Pandas · NumPy · Power BI · Excel · DAX  
+**Tools:** Streamlit · Jupyter · MySQL · Git · LIME · SHAP
 
 ---
 
-## What I'm Currently Learning
-
-• Advanced Machine Learning
-• Predictive Analytics
-• Data Engineering Concepts
-• Real-world Data Analytics Case Studies
-
----
-
-## Connect With Me
-
-LinkedIn: https://linkedin.com/in/vridhi-jain-890a9b293
-GitHub: https://github.com/Jainvridhi
-
----
-
-⭐ Always open to learning, collaboration, and building impactful data-driven solutions.
-
+⭐ *Always open to collaboration, internships, and data-driven challenges!*
