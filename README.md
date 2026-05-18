@@ -13,9 +13,9 @@
 
 ## 🧠 About Me
 
-I'm a final-year B.Tech IT student at **Bharati Vidyapeeth's College of Engineering, New Delhi** with a deep focus on turning data into decisions.
+I'm a Third-year B.Tech IT student at **Bharati Vidyapeeth's College of Engineering, New Delhi** with a deep focus on turning data into decisions.
 
-- 📄 **Published Research Author** — Hyperspectral AI for crop deficiency detection (93.4% accuracy)
+- 📄 **Published Research Author** — Hyperspectral AI for crop deficiency detection (92% accuracy)
 - 📊 **Data Analytics** — End-to-end pipelines: cleaning → SQL → ML → Power BI dashboards
 - 🤖 **AI/ML Engineer** — Built production-grade models using CNN, LSTM, RoBERTa, XGBoost
 - 🛠️ **App Builder** — Streamlit-based AI apps deployed for real use cases
