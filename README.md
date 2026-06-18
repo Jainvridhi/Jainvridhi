@@ -27,6 +27,7 @@ I'm a Third-year B.Tech IT student at **Bharati Vidyapeeth's College of Engineer
 | Project | What It Does | Key Result |
 |---|---|---|
 | [🌱 Crop Nutrient AI](https://github.com/Jainvridhi/Early-and-Accurate-Nutrient-Deficiency-Detection-in-Crops-Using-Hyperspectral-Image-Analysis) | Detects N/P/K deficiency via hyperspectral imaging | **93.4% accuracy**, 10–15 days early detection |
+| [🏦 Bank360 Customer Retention AI](https://github.com/Jainvridhi/Bank360-AI-Powered-Customer-Retention-System) | Predicts customer churn and provides retention insights with explainable AI | **85%+ accuracy**, SHAP-powered insights & interactive dashboard |
 | [🛒 RetailPulse 360](https://github.com/Jainvridhi/RetailPulse-360) | AI retail intelligence — demand, risk, leakage | **500K+ transactions**, XGBoost + Power BI |
 | [⭐ Amazon Sentiment](https://github.com/Jainvridhi/amazon_sentiment_analysis) | Multi-model NLP review classifier | CNN + LSTM + RoBERTa + VADER ensemble |
 | [👥 HR Analytics](https://github.com/Jainvridhi/HR-Analytics-PowerBI) | Power BI HR dashboard for attrition insights | Interactive Power BI with DAX |
